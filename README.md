@@ -1,2 +1,3 @@
 # musichub
-A Spring Boot test application
+
+A Spring Boot + Kotlin test application
